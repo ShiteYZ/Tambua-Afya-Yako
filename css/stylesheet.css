@@ -1,0 +1,85 @@
+.afyaheader{
+    color: darkorange;
+    font-family: fantasy;
+    font-style:normal;
+    margin-left: 50px;
+    border-bottom-style: double;
+    border-bottom-color: cornflowerblue;
+}
+.onlineconsheader{
+    color: darkblue;
+    font-family: fantasy;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.afyaheader2{
+    color: darkorange;
+    font-family: kunstler script;
+    font-style: oblique;
+    font-size: 40px;
+    margin-left: 200px;
+    padding-left: 10px;
+    border-left-style: solid;
+    border-left-color: darkblue;
+    height: 35px;
+    font-weight:bold;
+}
+
+.onlineconsheader2{
+    color: darkslateblue;
+    font-family:serif;
+    font-style: oblique;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border-left-style: solid;
+    border-left-color: darkblue;
+    font-weight:bold;
+}
+.habari{
+	text-align: center;
+	color: red;
+	font-size: 20px;
+	font-weight: 20px;
+	border-bottom-style: solid;
+	border-bottom-color: blue;
+	border-bottom-width: 5px;
+}
+.ovalimg{
+	border-radius: 50%;
+}
+hr{
+    border-color: red;
+    border-width: medium;
+}
+#name{
+    color: darkorange;
+    font-weight: bold;
+}
+#specialization{
+    color: blue;
+    font-weight: bold;
+}
+#wherefound{
+    color: black;
+    font-weight: bold;
+}
+.footer{
+    text-align: center;
+    background-color: cadetblue;
+}
+.help{
+    text-align: center;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.bdy{
+    background-color: azure;
+}
+.sec1{
+    text-align: center;
+    color:darkslateblue;
+    font-family: fantasy;
+}
